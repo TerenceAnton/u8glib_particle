@@ -1,0 +1,7 @@
+{
+	"name": "U8glib",
+	"author": "Terence Dela Fuente",
+	"version": "0.0.1",
+	"license": "Unknown",
+	"description": "U8glib port for Particle Devices"
+}
