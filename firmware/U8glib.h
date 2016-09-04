@@ -39,7 +39,7 @@
 #define _CPP_U8GLIB
 
 #include "Particle.h"
-#include "U8glib/clib/u8g.h"
+#include "u8g.h"
 
 
 class U8GLIB : public Print
